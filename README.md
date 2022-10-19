@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
-<h3 align="center">A passionate data analyst from Vilnius, Lithuania</h3>
+<h3 align="center">A passionate Data Analyst from Vilnius, Lithuania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strmanlt&label=Profile%20views&color=0e75b6&style=flat" alt="strmanlt" /> </p>
 
 - 🌱 I’m currently learning **At Data Analysis Turing College**
 
