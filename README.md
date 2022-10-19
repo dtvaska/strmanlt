@@ -3,7 +3,10 @@
 <img align="right" alt="Analysis" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 - ⭐ I’m currently working **As Data Analysis at Danske Bank**
+
 - 🌱 I’m currently learning **Data Analysis at Turing College**
+
+- 📫 How to reach me **dominykastvaska@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
