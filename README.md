@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">A passionate Data Analyst from Vilnius, Lithuania</h3>
+,img align="center" alt="Analysis" width="800" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 - ⭐ I’m currently working **As Data Analysis at Danske Bank**
 - 🌱 I’m currently learning **Data Analysis at Turing College**
