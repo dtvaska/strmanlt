@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">A passionate Data Analyst from Vilnius, Lithuania</h3>
 
-
-- 🌱 I’m currently learning **At Data Analysis Turing College**
+- ⭐ I’m currently working **As Data Analysis at Danske Bank**
+- 🌱 I’m currently learning **Data Analysis at Turing College**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
